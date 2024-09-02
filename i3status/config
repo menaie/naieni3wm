@@ -1,0 +1,46 @@
+### Naien i3status
+#
+general {
+  colors = true
+  color_good = "#766ee6"
+  color_degraded = "#766ee6"
+  color_bad = "#766ee6"
+  interval = 1
+  separator = ""
+}
+
+order += "disk /"
+order += "cpu_usage"
+order += "wireless wlan0"
+order += "battery 0"
+order += "memory"
+order += "tztime local"
+
+disk "/" {
+  format = "  %percentage_used "
+}
+
+cpu_usage {
+  format = "  %usage "
+}
+
+wireless wlan0 {
+  format_up = " 󰖩  %essid %quality "
+  format_down  = " 󱚵  down "
+}
+
+battery 0 {
+  format = "   %percentage "
+  last_full_capacity = true
+  threshold_type=percentage
+  low_threshold=10
+}
+
+memory {
+  memory_used_method = classical
+  format="   %used/%total "
+}
+
+tztime local {
+        format = "%Y-%m-%d %H:%M:%S "
+}
