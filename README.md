@@ -23,9 +23,9 @@ After cloning the git, you should enter on the ``i3`` folder and modify the ``co
 After modifying the config file, you should move all the files to their required spaces.
 
 ```
-(outside naieni3wm folder) $ sudo mv naieni3wm/kitty/kitty.conf naieni3wm/kitty/current-theme.conf ~/.config/kitty/
-$ sudo mv naieni3wm/i3/config naieni3wm/i3/picom.conf ~/.config/i3/
-$ sudo mv naieni3wm/fastfetch/config.jsonc ~/.config/fastfetch
+$ sudo mv ~/naieni3wm/kitty/kitty.conf naieni3wm/kitty/current-theme.conf ~/.config/kitty/
+$ sudo mv ~/naieni3wm/i3/config naieni3wm/i3/picom.conf ~/.config/i3/
+$ sudo mv ~/naieni3wm/fastfetch/config.jsonc ~/.config/fastfetch
 ```
 
 # Firefox theme
