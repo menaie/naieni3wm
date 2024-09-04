@@ -31,4 +31,4 @@ $ sudo mv ~/naieni3wm/fastfetch/config.jsonc ~/.config/fastfetch
 # Firefox theme / GTK Theme
 
 If you want (should), you can use my firefox theme ``Naien`` which is available at addons.mozilla.org
-And the GTK Theme, move the "naien" folder (which has the index.theme file inside) to "~/.themes" and use nwg-look to put it.
+And the GTK Theme, extract "naien-gtk3.tar.gz" and move the "naien" folder (which has the index.theme file inside) to "~/.themes" and use nwg-look to put it.
