@@ -30,4 +30,4 @@ $ sudo mv ~/naieni3wm/fastfetch/config.jsonc ~/.config/fastfetch
 
 # Firefox theme
 
-If you want (should), you can use my firefox theme ``Naien`` which is available at [addons.mozilla.org](addons.mozilla.org)
+If you want (should), you can use my firefox theme ``Naien`` which is available at addons.mozilla.org
