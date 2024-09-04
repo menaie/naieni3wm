@@ -14,7 +14,7 @@
  ### Manual
 
 ```
-$ sudo pacman -S i3 kitty fastfetch dmenu picom
+$ sudo pacman -S i3 kitty fastfetch dmenu picom nwg-look
 
 $ git clone https://github.com/menaie/naieni3wm.git
 ```
