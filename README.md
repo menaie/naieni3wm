@@ -1,6 +1,5 @@
 # Naien i3wm
 
-![NaienI3WM-preview](https://github.com/user-attachments/assets/11cae767-7962-457b-a4c3-ba37a1b4f28f)
 ![NaienI3WM-preview2](https://github.com/user-attachments/assets/6e6ff683-7789-420e-bab0-e9ab3af069b6)
 
 
