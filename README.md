@@ -5,11 +5,11 @@
 ## Instalation
  Packages to be installed:
  - i3wm group Packages (WM)
-
  - Kitty (Terminal Emulator)
  - Fastfetch (Neofetch fork)
  - dmenu (application launcher)
  - picom (X Compositor)
+ - nwg-look (GTK Theme Manager)
  ### Manual
 
 ```
@@ -28,6 +28,7 @@ $ sudo mv ~/naieni3wm/i3/config naieni3wm/i3/picom.conf ~/.config/i3/
 $ sudo mv ~/naieni3wm/fastfetch/config.jsonc ~/.config/fastfetch
 ```
 
-# Firefox theme
+# Firefox theme / GTK Theme
 
 If you want (should), you can use my firefox theme ``Naien`` which is available at addons.mozilla.org
+And the GTK Theme, move the "naien" folder (which has the index.theme file inside) to "~/.themes" and use nwg-look to put it.
